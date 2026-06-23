@@ -1,7 +1,7 @@
 # DataCounterStrike
 Personal project about tracking own performance during premiere seasons on Counter-Strike 2.
 
-"Developed with the assistance of Claude Code. Data collection, analysis direction, and conclusions are my own."
+Developed with the assistance of Claude Code. Data collection, analysis direction, and conclusions are my own.
 
 For conclusions about the data, please read the [ANALYSIS.md](ANALYSIS.md) file
 
